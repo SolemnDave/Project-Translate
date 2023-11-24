@@ -13,7 +13,8 @@ function Translator() {
   const [selectedTargetLanguage, setSelectedTargetLanguage] =
     useState("Spanish");
 
-  const API_GATEWAY_URL = process.env.REACT_APP_API_GATEWAY_URL;
+  const API_GATEWAY_URL =
+    "https://rfacy77hf0.execute-api.us-east-1.amazonaws.com/prod/translate";
 
   // "https://rfacy77hf0.execute-api.us-east-1.amazonaws.com/prod/translate"
 
