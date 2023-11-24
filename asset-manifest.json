@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SolemnDave/Project-Translate/static/css/main.0bdc326e.css",
-    "main.js": "/SolemnDave/Project-Translate/static/js/main.d8c6613f.js",
-    "static/js/787.1e5defce.chunk.js": "/SolemnDave/Project-Translate/static/js/787.1e5defce.chunk.js",
-    "static/media/projecttranslatebg.jpg": "/SolemnDave/Project-Translate/static/media/projecttranslatebg.53514df77aa21dcb4dcf.jpg",
-    "index.html": "/SolemnDave/Project-Translate/index.html",
-    "main.0bdc326e.css.map": "/SolemnDave/Project-Translate/static/css/main.0bdc326e.css.map",
-    "main.d8c6613f.js.map": "/SolemnDave/Project-Translate/static/js/main.d8c6613f.js.map",
-    "787.1e5defce.chunk.js.map": "/SolemnDave/Project-Translate/static/js/787.1e5defce.chunk.js.map"
+    "main.css": "/Project-Translate/static/css/main.b80529ac.css",
+    "main.js": "/Project-Translate/static/js/main.70b02908.js",
+    "static/js/787.1e5defce.chunk.js": "/Project-Translate/static/js/787.1e5defce.chunk.js",
+    "static/media/projecttranslatebg.jpg": "/Project-Translate/static/media/projecttranslatebg.53514df77aa21dcb4dcf.jpg",
+    "index.html": "/Project-Translate/index.html",
+    "main.b80529ac.css.map": "/Project-Translate/static/css/main.b80529ac.css.map",
+    "main.70b02908.js.map": "/Project-Translate/static/js/main.70b02908.js.map",
+    "787.1e5defce.chunk.js.map": "/Project-Translate/static/js/787.1e5defce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bdc326e.css",
-    "static/js/main.d8c6613f.js"
+    "static/css/main.b80529ac.css",
+    "static/js/main.70b02908.js"
   ]
 }
